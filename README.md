@@ -18,7 +18,7 @@ FITUR
 Saya masih belajar
 
 
-#PENS LUPIS 2.0
+# PENS LUPIS 2.0
 
 ++PENS-LUPIS 1.0
   - Kelas Terpisah
