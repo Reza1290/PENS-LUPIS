@@ -76,7 +76,7 @@ INSERT INTO `tb_mahasiswa` (`ID`, `NRP`, `NAMA`, `GENDER`, `JURUSAN`, `EMAIL`, `
 (26, '3122500024', 'Muhamad Reza Muktasib', 1, 'INFORMATIKA', 'reza.muktasib@gmail.com', 'JL TG PINANG NO 6 ', '085649929190', 'SMAN 8 SURABAYA', 'ILMU TAARUF'),
 (27, '3122500034', 'Budi Raharjo', 1, 'INFORMATIKA', 'reza.muktasib@gmail.com', 'JL TG PINANG NO 6 SBY', '085649929190', 'SMAN 8 SURABAYA', 'PROGRAM'),
 (28, '3122500029', 'Ilham Budiman', 1, 'INFORMATIKA', 'reza.muktasib@gmail.com', 'JL TG PINANG NO 6 SBY', '085649929190', 'SMAN 8 SURABAYA', 'PROGRAM'),
-(31, '3122500027', 'Tarisa Audina M', 1, 'TEKNIK INDUSTRI', 'tari@gmail.com', 'TELAGA', '0851231313131', 'SMAN 8 SURABAYA', 'GAMBAR TEKNIK');
+(31, '3122500027', 'gg', 1, 'TEKNIK INDUSTRI', 'gg@gmail.com', 'gg', '0851231313131', 'SMAN 8 SURABAYA', 'GAMBAR TEKNIK');
 
 -- --------------------------------------------------------
 
